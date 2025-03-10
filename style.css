@@ -7,7 +7,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(./faq-accordion-main/assets/images/background-pattern-desktop.svg);
+    background-image: url(/faq-accordion-main/assets/images/background-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: #f4e8fc;
@@ -96,7 +96,7 @@ span{
         justify-content: center;
         align-items: center;
         height: 100vh;
-        background-image: url(./faq-accordion-main/assets/images/background-pattern-mobile.svg);
+        background-image: url(/faq-accordion-main/assets/images/background-pattern-mobile.svg);
         background-repeat: no-repeat;
         background-size: 100%;
         background-color: #f4e8fc;
